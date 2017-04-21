@@ -1,7 +1,5 @@
 # Farm-Fresh
-### The farm-fresh app aims to solve the problem of Indian farmers, so that they can directly set the prices of their
-surplus online without the retailers help. This is done to make the process easy and to remove a chain of retailers 
-that increases the actual cost of product.
+### The farm-fresh app aims to solve the problem of Indian farmers, so that they can directly set the prices of their surplus online without the retailers help. This is done to make the process easy and to remove a chain of retailers that increases the actual cost of product.
 
 # Technology Used
 - Python web2py
